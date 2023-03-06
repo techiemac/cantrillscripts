@@ -10,7 +10,7 @@
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=cantrill.io
 // @grant        none
 // @require      https://code.jquery.com/jquery-latest.js
-// @require      https://vjs.zencdn.net/8.0.4/video.min.js
+// @require      https://cdnjs.cloudflare.com/ajax/libs/video.js/8.1.1/video.min.js
 // ==/UserScript==
 
 // Disable gradient overlay

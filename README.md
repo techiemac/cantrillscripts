@@ -11,12 +11,10 @@ The script will remove the gradient overlay from the player and make the control
 to bask in the glorious content. Additionally, this enables keyboard shortcuts so you don't need to click on the
 video window first to enable the shortcuts. Additional shortcuts have been added, because why not.
 
-To start, install tampermonkey and then add cantrillvid.js manually.
+To start, install tampermonkey and you can install this by:
 
-In the future this may be installable from [greasyfork](https://greasyfork.org/). Currently greasyfork does not
-recognize `video.min.js` as an approved external script, likely because it's hoested by `zencdn.net`. I am going 
-to either look for a CDN currently hosting this in the approved list or see if I can pester the fine folks over
-at greasyfork to approve this. `cdn.js` does currently host video.js and is on the approved list.
+1. Installing the script (from greasyfork)[https://greasyfork.org/en/scripts/461260-cantrill-video-control}]
+2. Or add cantrillvid.js manually from this github repo.
 
 ## Usage
 
@@ -32,6 +30,7 @@ There are additional keyboard shortcuts. They are:
 | 5   | Playback at 1.5 speed                                      |
 | 6   | Playback at 2.0 speed (AAAAALVIN!)                         |
 | ←   | Back 10 seconds                                            |
+| →   | Foward 10 seconds                                          |
 | f   | Fullscreen (if supported, the iframe needs to be in focus) |
 
 To modify the behavior, say if you like the gradient overlay. Click on tampermonkey and then click on Create New Script.
