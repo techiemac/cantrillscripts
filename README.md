@@ -13,7 +13,7 @@ video window first to enable the shortcuts. Additional shortcuts have been added
 
 To start, install tampermonkey and you can install this by:
 
-1. Installing the script (from greasyfork)[https://greasyfork.org/en/scripts/461260-cantrill-video-control}]
+1. Installing the script [from greasyfork](https://greasyfork.org/en/scripts/461260-cantrill-video-control)
 2. Or add cantrillvid.js manually from this github repo.
 
 ## Usage
